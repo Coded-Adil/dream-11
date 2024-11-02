@@ -12,19 +12,23 @@
 <h2>
     Technologies used
 </h2>
-- React.js
-- Vite
-- Basic CSS
-- Tailwind.css
-- DaisyUI
-- Chatgpt (for creating fake json data)
-- PropType
-- React Toeastify
+<ul>
+    <li>React.js</li>
+    <li>Vite</li>
+    <li>Basic CSS</li>
+    <li>Tailwind.css</li>
+    <li>DaisyUI</li>
+    <li>Chatgpt (for creating fake json data)</li>
+    <li>PropType</li>
+    <li>React Toeastify</li>
+</ul>
 <br>
 <br>
 <h2>
     Key Features
 </h2>
-- Real-Time Alerts
-- Toggle Between Available and Selected Players
-- Player Selection Validation
+<ul>
+    <li>Real-Time Alerts</li>
+    <li>Toggle Between Available and Selected Players</li>
+    <li>Player Selection Validation</li>
+</ul>
