@@ -1,0 +1,33 @@
+.toggle-btn {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+.active{
+  background-color: #E7FE29;
+  color: black;
+  font-weight: bold;
+  border-radius: 30px;
+}
+.bttn{
+  padding: 15px;
+  cursor: pointer;
+}
+.bg-con {
+  background: rgb(136, 240, 255);
+  background: linear-gradient(
+    6deg,
+    rgba(136, 240, 255, 0.9864320728291317) -150%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(255, 126, 107, 0.8239670868347339) 200%
+  );
+}
+
+.bg-rty {
+  background: rgb(240, 62, 111);
+  background: linear-gradient(
+    137deg,
+    rgba(240, 62, 111, 0.9304096638655462) 0%,
+    rgba(251, 214, 45, 1) 100%
+  );
+}

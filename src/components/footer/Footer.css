@@ -1,0 +1,8 @@
+.bg-ytr {
+  background: rgb(240, 62, 111);
+  background: linear-gradient(
+    283deg,
+    rgba(240, 62, 111, 0.9304096638655462) 0%,
+    rgba(251, 214, 45, 1) 100%
+  );
+}

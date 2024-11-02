@@ -1,0 +1,11 @@
+.bg-style {
+  background: rgb(0, 0, 0, 0);
+  background: linear-gradient(
+    50deg,
+    rgba(136, 240, 255, 0.9864320728291317) -65%,
+    rgba(0, 0, 0, 1) 50%,
+    rgba(255, 126, 107, 0.8239670868347339) 160%
+  );
+  color: white;
+  border-radius: 45px;
+}

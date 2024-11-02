@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "player_img": "https://i.ibb.co.com/vhJBz5k/Virat-Kohli.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "player_position": "Batsman",
+    "player_type": "Right-handed Batsman",
+    "player_price": 1200000
+  },
+  {
+    "id": 2,
+    "player_img": "https://i.ibb.co.com/whQDzzZ/Steve-Smith.jpg",
+    "player_name": "Steve Smith",
+    "player_country": "Australia",
+    "player_position": "Batsman",
+    "player_type": "Right-handed Batsman",
+    "player_price": 1100000
+  },
+  {
+    "id": 3,
+    "player_img": "https://i.ibb.co.com/PzGGvrh/Kane-Williamson.jpg",
+    "player_name": "Kane Williamson",
+    "player_country": "New Zealand",
+    "player_position": "Batsman",
+    "player_type": "Right-handed Batsman",
+    "player_price": 1000000
+  },
+  {
+    "id": 4,
+    "player_img": "https://i.ibb.co.com/B2j5gRK/Ben-Stokes.jpg",
+    "player_name": "Ben Stokes",
+    "player_country": "England",
+    "player_position": "All-rounder",
+    "player_type": "Left-handed Batsman",
+    "player_price": 950000
+  },
+  {
+    "id": 5,
+    "player_img": "https://i.ibb.co.com/8mL8qqG/Jasprit-Bumrah.jpg",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "player_position": "Bowler",
+    "player_type": "Right-arm Fast Bowler",
+    "player_price": 850000
+  },
+  {
+    "id": 6,
+    "player_img": "https://i.ibb.co.com/yPn7CC2/Trent-Boult.jpg",
+    "player_name": "Trent Boult",
+    "player_country": "New Zealand",
+    "player_position": "Bowler",
+    "player_type": "Left-arm Fast Bowler",
+    "player_price": 800000
+  },
+  {
+    "id": 7,
+    "player_img": "https://i.ibb.co.com/kGk3RmC/Pat-Cummins.jpg",
+    "player_name": "Pat Cummins",
+    "player_country": "Australia",
+    "player_position": "Bowler",
+    "player_type": "Right-arm Fast Bowler",
+    "player_price": 900000
+  },
+  {
+    "id": 8,
+    "player_img": "https://i.ibb.co.com/3csTWBv/Jos-Buttler.jpg",
+    "player_name": "Jos Buttler",
+    "player_country": "England",
+    "player_position": "Wicketkeeper",
+    "player_type": "Right-handed Batsman",
+    "player_price": 950000
+  },
+  {
+    "id": 9,
+    "player_img": "https://i.ibb.co.com/r4CDyfL/Shakib-Al-Hasan.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_position": "All-rounder",
+    "player_type": "Left-handed Batsman",
+    "player_price": 750000
+  },
+  {
+    "id": 10,
+    "player_img": "https://i.ibb.co.com/JsQ4yt7/Rashid-Khan.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_position": "Bowler",
+    "player_type": "Right-arm Leg Spin Bowler",
+    "player_price": 800000
+  }
+]
